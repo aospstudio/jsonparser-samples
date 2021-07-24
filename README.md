@@ -3,7 +3,7 @@
 
 ## Requirements
 ```bash
-Android Studio Artic Fox 2021.1.1 Canary 4 or higher,
+Android Studio Bumblebee 2021.1.1 Canary 4 or higher,
 Gradle version: 7.1.0 Alpha 04,
 SDK API 31,
 Platform Tools: 31.0.0,
